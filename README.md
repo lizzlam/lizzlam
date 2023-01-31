@@ -1,7 +1,5 @@
-- Hi, I’m Elizabeth Lam! 🤠
-- I’m interested in learning techology field: software development and data engineering! ⚓️
-- I’m currently learning computer science @ Rutgers University 💃🍫🚨
-- How to reach me: elizabethlam02@gmail.com 🗿
+- Hi, My name is Elizabeth Lam. I currently major in Computer Science at Rutgers University - New Brunswick with a focus in software development and UI/UX design.
+- Feel free to reach me, my email is elizabethlam02@gmail.com 
 
 <!---
 lizzlam/lizzlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
