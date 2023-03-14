@@ -1,4 +1,4 @@
-- Hi, My name is Elizabeth Lam. I currently major in Computer Science at Rutgers University - New Brunswick with a focus in software development and UI/UX design.
+- Hi, My name is Elizabeth Lam. I currently major in Computer Science at Rutgers University - New Brunswick with a focus in software development.
 - Feel free to reach me, my email is elizabethlam02@gmail.com 
 
 <!---
